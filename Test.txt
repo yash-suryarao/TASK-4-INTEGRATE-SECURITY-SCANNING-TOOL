@@ -1,2 +1,20 @@
 jenkins sonarqube
 
+sonar.projectKey=website
+
+
+node {
+  stage('SCM') {
+    checkout scm
+  }
+  stage('SonarQube Analysis') {
+    def scannerHome = tool 'SonarScanner';
+    withSonarQubeEnv() {
+      sh "${scannerHome}/bin/sonar-scanner"
+    }
+  }
+}
+
+
+
+sqa_08c78eb79919e9b4861511d988887c97526b6299
