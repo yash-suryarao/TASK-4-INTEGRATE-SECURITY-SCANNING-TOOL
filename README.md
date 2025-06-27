@@ -1,16 +1,11 @@
 # TASK-4-INTEGRATE-SECURITY-SCANNING-TOOL
 
-Company: CODETECH IT SOLUTION
-
-Name: YASH SURYARAO
-
-Intern ID: [Your ID]
-
-Domain: DEVOPS
-
-Duration: 8 WEEKS
-
-Mentor: NEELA SANTOSH
+**Company**: CODETECH IT SOLUTION  
+**Name**: YASH SURYARAO  
+**Intern ID**: _[Your ID]_  
+**Domain**: DEVOPS  
+**Duration**: 8 WEEKS  
+**Mentor**: NEELA SANTOSH  
 
 ---
 
