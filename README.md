@@ -1,5 +1,14 @@
 # TASK-4-INTEGRATE-SECURITY-SCANNING-TOOL
 
+Company: CODETECH IT SOLUTION
+Name: YASH SURYARAO
+Intern ID: [Your ID]
+Domain: DEVOPS
+Duration: 8 WEEKS
+Mentor: NEELA SANTOSH
+
+---
+
 ### What is SonarQube?
 SonarQube is an open-source platform used for continuous inspection of code quality. It analyzes code to detect bugs, code smells, security vulnerabilities, and ensures adherence to coding standards.
 
@@ -129,3 +138,10 @@ On successful build, visit SonarQube dashboard to view analysis
 
 ### Conclusion
 This task provides a complete walkthrough of setting up and integrating SonarQube with Jenkins using AWS EC2 and jenkins. Static code analysis ensures early detection of issues, enforces quality, and improves collaboration. SonarQube combined with Jenkins creates a powerful DevOps workflow for modern software projects.
+
+
+![application_architecture](images/)
+![application_architecture](images/)
+![application_architecture](images/)
+![application_architecture](images/)
+![application_architecture](images/)
